@@ -1,0 +1,40 @@
+#menu_nav{
+    background-color: rgb(222, 187, 241);
+    background-size: auto;
+    width: 100%;
+    height: 10vh;
+}
+
+body {
+    background-color: rgb(189, 145, 231);
+    background-size:100%;
+    background:  rgb(238, 238, 240);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(167,108,191,1) 0%, rgba(146,38,157,1) 28%, rgba(154,65,170,1) 34%, rgba(140,45,161,1) 48%, rgba(0,212,255,1) 100%);
+    
+}
+
+#banner {
+    background-color: rgb(218, 141, 218);
+    width: 100%;
+    height:
+    70vh;
+    margin-top: 3vh;
+}
+
+.colecao_cards{
+    background-color: rgb(201, 175, 201);
+    padding: 2vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.card_estilo {
+    margin:auto;
+    width: 60vh;
+    height: 60vh;
+    background-color: rgb(191, 159, 218);
+}
+
+.navbar {
+    position: ;
+}
